@@ -1,0 +1,6 @@
+*
+!Dockerfile
+!requirements.txt
+!hse_monitor/
+!hse_monitor/*.py
+**/__pycache__/
